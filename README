@@ -1,10 +1,5 @@
-#Simple appointment manager using EFCore to create appointments
+# Simple appointment manager using EFCore to create appointments
 
 Created this application to get better at CRUD with EFCore and WinForms. There is currently no validation, it is as basic as it gets.
 
 NOTE**: Connection string is hard-coded using localdb with no sensitive information. This app was just for demo purposes.
-
-#TODO:
-
-  - Update / Delete appointments
-  - Validation
