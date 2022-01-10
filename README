@@ -4,7 +4,7 @@ Created this application to get better at CRUD with EFCore and WinForms. There i
 
 NOTE**: Connection string is hard-coded using localdb with no sensitive information. This app was just for demo purposes.
 
-##TODO:
+### TODO:
 
   - Update / Delete appointments
   - Validation
